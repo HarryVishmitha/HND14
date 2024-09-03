@@ -85,7 +85,7 @@ This repository is licensed under the MIT License. Feel free to use the code, bu
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]((https://www.linkedin.com/in/thejan-vishmitha-aa23011ab)
+- [LinkedIn](https://www.linkedin.com/in/thejan-vishmitha-aa23011ab)
 - [Twitter (X)](https://x.com/VishmithaThejan)
 - [Email](mailto:vishmithathejan154@gmail.com)
 
