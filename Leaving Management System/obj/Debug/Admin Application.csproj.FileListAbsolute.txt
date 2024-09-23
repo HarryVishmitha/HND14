@@ -1,0 +1,16 @@
+D:\HND\Assignments\Programming\app\Leaving Management System\bin\Debug\Leaving Management System.exe.config
+D:\HND\Assignments\Programming\app\Leaving Management System\bin\Debug\Leaving Management System.exe
+D:\HND\Assignments\Programming\app\Leaving Management System\bin\Debug\Leaving Management System.pdb
+D:\HND\Assignments\Programming\app\Leaving Management System\obj\Debug\Admin Application.csproj.AssemblyReference.cache
+D:\HND\Assignments\Programming\app\Leaving Management System\obj\Debug\Leaving_Management_System.Home.resources
+D:\HND\Assignments\Programming\app\Leaving Management System\obj\Debug\Leaving_Management_System.AdminDash.resources
+D:\HND\Assignments\Programming\app\Leaving Management System\obj\Debug\Leaving_Management_System.FaddNewEmp.resources
+D:\HND\Assignments\Programming\app\Leaving Management System\obj\Debug\Leaving_Management_System.reqLeaves.resources
+D:\HND\Assignments\Programming\app\Leaving Management System\obj\Debug\Leaving_Management_System.LeaveDetailsForm.resources
+D:\HND\Assignments\Programming\app\Leaving Management System\obj\Debug\Leaving_Management_System.Properties.Resources.resources
+D:\HND\Assignments\Programming\app\Leaving Management System\obj\Debug\Admin Application.csproj.GenerateResource.cache
+D:\HND\Assignments\Programming\app\Leaving Management System\obj\Debug\Admin Application.csproj.CoreCompileInputs.cache
+D:\HND\Assignments\Programming\app\Leaving Management System\obj\Debug\Leaving Management System.exe
+D:\HND\Assignments\Programming\app\Leaving Management System\obj\Debug\Leaving Management System.pdb
+D:\HND\Assignments\Programming\app\Leaving Management System\obj\Debug\Leaving_Management_System.leaveReports.resources
+D:\HND\Assignments\Programming\app\Leaving Management System\obj\Debug\Leaving_Management_System.addRoster.resources
